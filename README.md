@@ -1,7 +1,7 @@
 # GBitsTools
 本工具的理论基础来源于 **Black Hat Asia** 议题：*https://i.blackhat.com/Asia-26/Presentations/Asia-26-Bai-Cast-Attack-Ghost-Bits-4.23.pdf*
 
-![1](.\images\1.jpg)
+![1](./images/1.jpg)
 
 
 
